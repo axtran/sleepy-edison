@@ -7,7 +7,7 @@ homedisplay: iframe
 title: Càn khôn TTT Hàng Truong
 tags: [life, quote]
 category: [video]
--
+---
 Youtube A4ttu71oJ70 is the  #####Càn Khôn + 10 animals#####  from TT Thich Hang-Truong
 postures  ######Càn, Crapaud, Buffle, Heron, Dragon, Phenix, Tigre, Papillon, Tortue, Khôn######  
 (Thẻ Càn, Thần Oa, T.Ngưu, T.Hạc, T.Long, T Phượng, T. Hổ, Tiên Điềm, Linh Quy, Khôn)
