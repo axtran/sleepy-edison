@@ -1,14 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Accueil`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Quoc-Anh Tran`,
+      summary: `, à Paris.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Personal blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `qatran`,
+      facebook: `quocanh.tran.1253`,
+      instagram: `qatqat`,
+      linkedin: `quoc-anh-tran-1372554`,
     },
   },
   plugins: [
@@ -78,6 +81,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    //`gatsby-plugin-offline`,
   ],
 }
