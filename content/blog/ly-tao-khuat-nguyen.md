@@ -13,7 +13,7 @@ categories:
 tags:
 - han-van
   
-permalink: "/2020/05/01/ly-tao-khuat-nguyen/"
+permalink: "/ly-tao-khuat-nguyen/"
 ---
    
 *Ly-Tao* 

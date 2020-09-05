@@ -11,12 +11,6 @@ categories:
 - KĐT-Bằng Vân
 tags:
 - luân-văn
-meta:
-  _edit_last: '10899574'
-  _thumbnail_id: '1665'
-  _publicize_job_id: '43794948603'
-  timeline_notification: '1588531819'
-author:
   
 permalink: "/2020/05/01/loi-binh-luan-cua-bang-van/"
 ---

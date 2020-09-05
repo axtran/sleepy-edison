@@ -105,5 +105,6 @@ permalink: "/kdt-phu-chu/"
 <!--nextpage--><br />
 <!-- /wp:nextpage --></p>
 <p><!-- wp:image {"id":1186,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/images/2020/05/kdt-fin.png?w=970" alt="" class="wp-image-1186" /></figure>
+![fin](../assets/kdt-fin.png)
+
 <p><!-- /wp:image --></p>

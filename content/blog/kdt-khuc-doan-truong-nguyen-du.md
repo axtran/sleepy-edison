@@ -11,14 +11,8 @@ categories:
 - KĐT-Bằng Vân
 tags:
 - luân-văn
-meta:
-  _publicize_job_id: '43717176794'
-  timeline_notification: '1588352938'
-  _edit_last: '10899574'
-  _thumbnail_id: '1665'
-author:
-  
-permalink: "/2020/05/01/khuc-doan-truong-nguyen-du/"
+
+permalink: "/kdt-khuc-doan-truong-nguyen-du/"
 ---
 <p><!-- wp:paragraph {"align":"center"} --></p>
 <p class="has-text-align-center">

@@ -13,7 +13,7 @@ categories:
 tags:
 - han-van
 
-author:
+description:
   
 permalink: "/truong-han-ca/"
 ---
@@ -775,12 +775,7 @@ Thấm chi trời đất dài lâu
 Giận này dặc dặc dễ hầu có nguôi...
 
 nguồn:&nbsp;*Tiểu thuyết thứ bảy*, số 31 (29-12-1934) và số 33 (12-1-1935)
-
-{% 
-   include image.html url="https://fracademic.com/pictures/frwiki/72/Hua-Qing-Chi-Yang-Gui-Fei.jpg"
-                      description="CC BY-SA 3.0
+![CC BY-SA 3.0
 Hua-Qing-Chi-Yang-Gui-Fei 華清池楊貴妃入浴像
-Created: 19 October 2006 "
-                      width="66%"
-                      height="66%"
-%}
+Created: 19 October 2006 ](https://fracademic.com/pictures/frwiki/72/Hua-Qing-Chi-Yang-Gui-Fei.jpg)
+

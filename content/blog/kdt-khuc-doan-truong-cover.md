@@ -11,13 +11,8 @@ categories:
 - KĐT-Bằng Vân
 tags:
 - luân-văn
-meta:
-  _publicize_job_id: '43906503630'
-  timeline_notification: '1588766705'
-  _edit_last: '10899574'
-  _thumbnail_id: '1665'
 
-permalink: "/2020/05/01/kdt-khuc-doan-truong-cover/"
+permalink: "/kdt-khuc-doan-truong-cover/"
 ---
 <p><!-- wp:group --></p>
 <div class="wp-block-group">
@@ -31,13 +26,11 @@ permalink: "/2020/05/01/kdt-khuc-doan-truong-cover/"
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><em>NXB Người Việt 77 r Jambert Ha-Nội (1943)</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/images/2020/05/kdt_page1.png?w=512" alt="" /><br />
-<figcaption>trang bià</figcaption>
-</figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":1} --></p>
+
+
+![trang bià](../assets/kdt_page1.png)
+
+
 <h1>Notice bibliographique</h1>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:list --></p>
@@ -71,12 +64,8 @@ permalink: "/2020/05/01/kdt-khuc-doan-truong-cover/"
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Notice n°&nbsp;:&nbsp;</strong>&nbsp;FRBNF31674084</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":411,"sizeSlug":"large"} --></p>
-<!--figure class="wp-block-image size-large" -->
-<figure class="img-fluid">
-<img src="{{ site.baseurl }}/assets/images/2020/05/kdt_visa-tirage.jpg" 
-     alt="" class="wp-image-411" /><br />
-<figcaption>Visa par la Censure locale de Saigon en date du 22 décembre 1942, Tirage: 1500 exemplaires</figcaption>
-</figure>
+
+![visa-tirage](../assets/kdt_visa-tirage.jpg)
+
+Visa par la Censure locale de Saigon en date du 22 décembre 1942, Tirage: 1500 exemplaires
 <p><!-- /wp:image --></p>

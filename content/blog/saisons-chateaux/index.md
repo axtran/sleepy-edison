@@ -7,16 +7,27 @@ title: Ô saisons, ô châteaux
 tags: [poetry]
 category: [image]
 ---
+
 ![Game of Throne](./Chateaux.jpg)
 
-Ô saisons, ô châteaux     
-Quelle âme est sans défaut ? 
+>Ô saisons, ô châteaux\
+Quelle âme est sans défaut ?
 
+>Ô saisons, ô châteaux !
 
-```  yml  
+>J’ai fait la magique étude\
+Du bonheur, que nul n’élude.
 
----   
-type: image
----  
+>Ô vive lui, chaque fois,\
+Que chante le coq gaulois.
 
-```
+>Mais je n’aurais plus d’envie,\
+Il s’est chargé de ma vie.
+
+>Ce charme ! il prit âme et corps,\
+Et dispersa tous efforts.
+
+>Que comprendre à ma parole ?\
+Il fait qu’elle fuie et vole !
+
+>Ô saisons, ô châteaux !

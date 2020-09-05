@@ -6,7 +6,7 @@ module.exports = {
       summary: `, à Paris.`,
     },
     description: `Personal blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://sleepy-edison-ccc6a8.netlify.app/`,
     social: {
       twitter: `qatran`,
       facebook: `quocanh.tran.1253`,
@@ -81,6 +81,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    //`gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }

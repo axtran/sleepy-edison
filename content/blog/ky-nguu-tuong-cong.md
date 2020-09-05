@@ -10,12 +10,7 @@ status: publish
 categories:
 - KĐT-Bằng Vân
 tags: []
-meta:
-  _publicize_job_id: '43885360114'
-  timeline_notification: '1588720453'
-  _thumbnail_id: '1665'
-  _wp_old_date: '2020-05-05'
-  _edit_last: '10899574'
+
 author:
   
 permalink: "/ky-nguu-tuong-cong/"

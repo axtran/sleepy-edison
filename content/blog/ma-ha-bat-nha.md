@@ -39,39 +39,32 @@ BỔ SUNG LẠC KHOẢN:
 *Tuế Giáp Ngọ, thủ xuân, sa môn NGUYÊN TIỀU thư.*  
 (Năm Giáp Ngọ (2014), đầu xuân, sa môn Nguyên Tiều viết)
 
-### ***Lời bàn của Q-A***
 
 Trăng soi sáng, lời dậy toả ra muôn dặm như sóng biển.
 *Giáo hải vạn lý ba* làm Q-A nhớ đến bài kệ chuỗi bên Phật câu:
 
-                                    Ái hà thiên xích lãng,
+                                    >Ái hà thiên xích lãng,
 
                                           愛 河 千 尺 浪
 
-                                    Khổ hải vạn trùng ba.
+                                    >Khổ hải vạn trùng ba.
 
                                           苦 海 萬 重 波
 
-                                    Dục thoát luân hồi khổ,
+                                    >Dục thoát luân hồi khổ,
 
                                           欲 脫 輪 迴 苦
 
-                                    Tảo cấp niệm Di Đà.
+                                    >Tảo cấp niệm Di Đà.
 
-                                          早 急 念 彌 陀  
+                                          早 急 念 彌 陀\
                                           
-{% 
-   include image.html url="/assets/images/ocean.jpeg"
-                      description="Vạn trùng ba"
-                      width="100%"
-                      height="100%"
-%}
-
-
-*Sông tình ngàn thước sóng,*   
-*Bể khổ  vạn dặm lan*   
-*Muốn thoát hoạ luân hồi*   
-*Sớm mau niệm Di Đà.*     
+![Vạn trùng ba](../assets/ocean.jpeg)
+   
+>Sông tình ngàn thước sóng,
+Bể khổ  vạn dặm lan
+Muốn thoát hoạ luân hồi
+Sớm mau niệm Di Đà.
 
 
 Đạo Phật day cách thoát khổ, trong khi đạo Ky-Tô lại dục con chiên phải có tình yêu:

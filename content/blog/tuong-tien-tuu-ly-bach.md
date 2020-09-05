@@ -1,5 +1,5 @@
 ---
-title: 將進酒 (Thương tiến tửu)
+title: 將進酒 (Tương tiến tửu)
 layout: post
 date: '2020-05-01 18:30:36 +0200'
 type: post
@@ -159,14 +159,7 @@ Biệt hữu thiên địa, phi nhân gian.
  **Nguyễn Hiến Lê**   *Đại Cương Văn Học Sử Trung Quốc*  
  
  ***
- 
-
- {% 
-   include image.html url="/assets/images/2020/04/tuongtientuu.jpg"
-                      description=" Tương Tiến Tửu "
-                      width="100%"
-                      height=""
-%}
+ ![Tương Tiến Tửu](../assets/tuongtientuu.jpg)
 
  
 **將 進 酒**  
@@ -331,4 +324,4 @@ Bài này được sáng tác khoảng năm Thiên Bảo thứ 11. Đề mục *
 
 Chữ 將 trong tên bài ở đây đọc âm *thương* (tương ứng âm “qiāng” trong tiếng Trung hiện đại) với nghĩa xin mời, hãy.
 
-[link ~> Trang thơ Lý Bạch - Thương tiến tửu trên Thi viện](https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/Th%C6%B0%C6%A1ng-ti%E1%BA%BFn-t%E1%BB%ADu/poem-2SOZi2_E9ZMjy3mQn1w89A){:target="_blank"}
+[link ~> Trang thơ Lý Bạch - Thương tiến tửu trên Thi viện](https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/Th%C6%B0%C6%A1ng-ti%E1%BA%BFn-t%E1%BB%ADu/poem-2SOZi2_E9ZMjy3mQn1w89A)

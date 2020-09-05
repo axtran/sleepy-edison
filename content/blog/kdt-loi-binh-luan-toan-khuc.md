@@ -11,13 +11,7 @@ categories:
 - KĐT-Bằng Vân
 tags:
 - luân-văn
-meta:
-  _publicize_job_id: '43720098956'
-  timeline_notification: '1588358468'
-  _oembed_59eed3db01b13bb29ce4105dfcdfb65f: "{{unknown}}"
-  _edit_last: '10899574'
-  _thumbnail_id: '1665'
-author:
+
   
 permalink: "/2020/05/01/kdt-loi-binh-luan-toan-khuc/"
 ---
