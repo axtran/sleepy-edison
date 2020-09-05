@@ -95,9 +95,7 @@ ta có <a href="/2020/05/01/khuc-doan-truong-nguyen-du/" target="_blank">Khúc �
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ôi ! Khúc Đoạn-Trường của ta tuyệt diệu như vậy, Đoạn trường tân thanh của ta bao la như vậy, thử hỏi ta đã làm gì để xứng với hạnh phúc của ta ?<br />Trả lời câu hỏi ấy, tất là ta phải khóc. Xuân-Diệu trước ta đã có ý "<em><strong>khấp Tố Như</strong></em>" Xuân-Việt thì từ bao giờ vẫn khóc, lệ hai người ấy như dòng ngân và suối lưả, nay gom cùng nước mắt ta.<br />Chắc rằng càng khóc với ta, còn bao nhiêu người Việt, nhưng khóc sao cho không phí giọt hồng, dàn được hai bờ Cửu-Long chan chứa.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":971,"sizeSlug":"large"} --></p>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph {"align":"center"} --></p>
+
+
 ![Khúc Đoạn Trường - chung](../assets/kdt-fin.png)
    

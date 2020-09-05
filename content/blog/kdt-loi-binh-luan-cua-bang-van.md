@@ -14,15 +14,12 @@ tags:
   
 permalink: "/2020/05/01/loi-binh-luan-cua-bang-van/"
 ---
-<p><!-- wp:jetpack/podcast-player {"url":"https:\/\/anchor.fm\/quoc-anh-tran\/episodes\/KDT-2-edpn53"} /--></p>
-<p><!-- wp:heading {"align":"left","level":4} --></p>
-<h4 class="has-text-align-left"><em><span class="uppercase">Lời Bình Luận</span> của Bằng Vân</em></h4>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:quote {"align":"left"} --></p>
-<blockquote class="wp-block-quote has-text-align-left"><p><em>hợp tác với Xuân Diệu, Xuân Việt.</em></p></blockquote>
+####Lời Bình Luận</span> của Bằng Vân#####
+*hợp tác với Xuân Diệu, Xuân Việt.*
+
+
  ![kieu lau xanh](../assets/kieu_lau-xanh-1.jpg) 
-<p><!-- /wp:quote --></p>
-<p><!-- wp:paragraph {"align":"center"} --></p>
+
 <p class="has-text-align-center"><em>Lầu xanh mới rủ trướng đào,<br />
 Càng treo giá ngọc càng cao phẩm người.</em></p>
 <p><!-- /wp:paragraph --></p>
@@ -528,14 +525,8 @@ Sao cho sỉ nhục một lần mới thôi !</em></p>
 Tình văn lại càng lạ : bao nhiêu đau đớn trong toàn khúc, dồn lại hai câu, nào <em>đầy </em>nào <em>kiếp, </em>nào <em> phong trần </em>nào <em> sỉ-nhục, </em>bao nhiêu thắt buộc mà chỉ hai chữ <em>mới thôi</em> cởi mở được hết, lại thanh thoát như không.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Đoạn văn này, đến hai câu: " <em>Đã cho lấy chữ hồng nhan, Làm cho, cho hại, cho tàn, cho cân !</em> " hơi văn đã mạnh như luồng gió bão, tứ văn đã tràn như nước vỡ bờ, tưởng đến là phải hết, không ngờ tác-giả còn dư sức, dùng phép " <em>Long Vương quẩy đuôi</em> ", thêm một chữ <em>đã, </em>nối một chữ <em>cho</em>, viết ra hai câu thật là hùng hậu. Bút lực của tác-giả xem đó biết thế nào cho cùng !</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>___________________________________________________________<br />
-(1) Không phải Bằng Vân tiếc lời mà không nói. Đây ở ngoài phạm-vi văn chương, xin hẹn cùng các bạn, còn nhiều găp gỡ về sau<br />
-___________________________________________________________</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
+<p>Đoạn văn này, đến hai câu: " <em>Đã cho lấy chữ hồng nhan, Làm cho, cho hại, cho tàn, cho cân !</em> " hơi văn đã mạnh như luồng gió bão, tứ văn đã tràn như nước vỡ bờ, tưởng đến là phải hết, không ngờ tác-giả còn dư sức, dùng phép " <em>Long Vương quẩy đuôi</em> ", thêm một chữ <em>đã, </em>nối một chữ *cho*, viết ra hai câu thật là hùng hậu. Bút lực của tác-giả xem đó biết thế nào cho cùng !
+
+---
+(1) Không phải Bằng Vân tiếc lời mà không nói. Đây ở ngoài phạm-vi văn chương, xin hẹn cùng các bạn, còn nhiều găp gỡ về sau
+

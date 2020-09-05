@@ -8,10 +8,11 @@ title: Càn khôn TTT Hàng Truong
 tags: [life, quote]
 category: [video]
 ---
-Youtube A4ttu71oJ70 is the  #####Càn Khôn + 10 animals#####  from TT Thich Hang-Truong
-postures  ######Càn, Crapaud, Buffle, Heron, Dragon, Phenix, Tigre, Papillon, Tortue, Khôn######  
-(Thẻ Càn, Thần Oa, T.Ngưu, T.Hạc, T.Long, T Phượng, T. Hổ, Tiên Điềm, Linh Quy, Khôn)
-first published on YT in 2008 May 28th
+
+Youtube A4ttu71oJ70 is the  *Càn Khôn* - 10 animals from TT Thich Hàng-Truong
+postures  *Càn, Toad, Buffalo, Crane, Dragon, Phoenix, Tiger, Butterfly, Tortoise, Khôn*\
+(Thẻ Càn, Thần Oa, Thần Ngưu, Thần Hạc, Thần Long, Thần Phượng, Thần Hổ, Tiên Điềm, Linh Quy, Khôn)\
+First published on YT in 2008 May 28th
 
 <iframe width="905" height="509" src="https://www.youtube.com/embed/RZAT_aPqYj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
