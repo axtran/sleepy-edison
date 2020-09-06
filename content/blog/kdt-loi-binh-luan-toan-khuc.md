@@ -15,7 +15,7 @@ tags:
   
 permalink: "/2020/05/01/kdt-loi-binh-luan-toan-khuc/"
 ---
-![Thuý Kiều"](../assets/kieu_thuy-kieu.jpg)
+![Thuý Kiều"](../assets/kieu_thuy-kieu.jpg)Thuý Kiều
    
 <p><!-- wp:heading {"align":"center","level":3} --></p>
 <h3 class="has-text-align-center">Nghệ-thuât tuyệt vời</h3>
@@ -70,18 +70,19 @@ permalink: "/2020/05/01/kdt-loi-binh-luan-toan-khuc/"
 <p>Nhưng sự vô lý chính có cái lý cao xa, mà bọn không có mắt lại là đa số ở đời này, nên Thuý-Kiều mới phải "<em><strong> song sa vò võ </strong></em>", mà tác-giả mới đem kiếp đoạn trường, muôn đời gửi trên tờ giấy.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Từ " <em><strong>phương trời</strong></em>" tác-giả hạ xuống "<em><strong>hoàng hôn hôn hoàng"</strong></em>, con mắt nhìn xa, tấm lòng thấy rộng, thốt ra lời văn, thu được cả không gian thời gian vào ngọn bút. <br />" <em><strong>Thỏ bạc, ác vàng</strong></em>" tiếp ngay xuống " <em><strong>Xót người trong hội đoạn tràng đòi cơn</strong></em> " nghĩa dường hai mà câu văn như một, trên trời đau thương, mặt giăng mặt giời ngậm ngùi liên tiếp, một lòng son mà vũ trụ lung lay.<br />" <em><strong>Đã cho lấy chữ hồng nhan, Làm cho, cho hại, cho tàn, cho cân </strong></em>" thì chẳng những "<em><strong>huyền nhật nguyệt</strong></em>" mà thôi, còn am hiểu lẽ sâu xa thân phận con người, thay cả quyền Trời, cầm cân Tạo-hoá.<br />Đến hai câu " <em><strong>Đã đầy vào kiếp phong trần, Sao cho sỉ nhục</strong></em> <em><strong>một lần mới thôi !</strong></em>", tinh thần siêu việt, nghĩa lý vô cùng, thân không ở trên kiếp phong trần sỉ nhục, lòng không thấu hiểu sự lý muôn thu, viết sao được những câu văn lạ lùng ghê gớm ấy.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"align":"center","level":4} --></p>
-<h4 class="has-text-align-center">Khúc Đoạn Trường</h4>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Tâu có Sở từ của <a href="/2020/05/01/ly-tao-khuat-nguyen/" target="_blank">Khuất-Nguyên</a>, 
-Tương tiến tửu của <a href="/2020/05/01/tuong-tien-tuu-ly-bach/" target="_blank">Lý Bạch</a>, 
-Xích-Bích phú của <a href="/2020/05/01/tien-xich-bich-phu/" target="_blank">Tô-đông-Pha</a>, 
-Trường-hận ca của <a href="/2020/05/01/truong-han-ca/" target="_blank">Bạch-cư-Dị</a>, 
-ta có <a href="/2020/05/01/khuc-doan-truong-nguyen-du/" target="_blank">Khúc Đoạn-Trường</a>.</p>
-<p><!-- wp:paragraph --></p>
+<p>Từ " <em><strong>phương trời</strong></em>" tác-giả hạ xuống "<em><strong>hoàng hôn hôn hoàng"</strong></em>, con mắt nhìn xa, tấm lòng thấy rộng, thốt ra lời văn, thu được cả không gian thời gian vào ngọn bút. <br />" <em><strong>Thỏ bạc, ác vàng</strong></em>" tiếp ngay xuống " <em><strong>Xót người trong hội đoạn tràng đòi cơn</strong></em> " nghĩa dường hai mà câu văn như một, trên trời đau thương, mặt giăng mặt giời ngậm ngùi liên tiếp, một lòng son mà vũ trụ lung lay.<br />" <em><strong>Đã cho lấy chữ hồng nhan, Làm cho, cho hại, cho tàn, cho cân </strong></em>" thì chẳng những "<em><strong>huyền nhật nguyệt</strong></em>" mà thôi, còn am hiểu lẽ sâu xa thân phận con người, thay cả quyền Trời, cầm cân Tạo-hoá.<br />Đến hai câu " <em><strong>Đã đầy vào kiếp phong trần, Sao cho sỉ nhục</strong></em> <em><strong>một lần mới thôi !</strong></em>", tinh thần siêu việt, nghĩa lý vô cùng, thân không ở trên kiếp phong trần sỉ nhục, lòng không thấu hiểu sự lý muôn thu, viết sao được những câu văn lạ lùng ghê gớm ấy.
+
+####Khúc Đoạn Trường####
+
+Tàu có
+- [Sở từ của Khuất-Nguyên](/ly-tao-khuat-nguyen/),  
+- [Tương tiến tửu của Lý Bạch](/tuong-tien-tuu-ly-bach/),  
+- [Xích-Bích phú của Tô-đông-Pha](/tien-xich-bich-phu/),  
+- [Trường-hận ca của Bạch-cư-dị](/truong-han-ca/),
+
+ta có [Khúc Đoạn-Trường](/kdt-khuc-doan-truong-nguyen-du/)
+
+
 <p>Thi ca từ phú của Tầu thì nhiều, ngâm khúc của ta thì ít, song giá bắc lên cân, cho họ ném vào hết những trường ca trường phú của họ, ta chỉ đưa ra một Khúc Đoạn-Trường, nếu cán cân chưa chếch hẳn về ta, thì cũng chẳng sao nghiêng được về họ.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -97,5 +98,5 @@ ta có <a href="/2020/05/01/khuc-doan-truong-nguyen-du/" target="_blank">Khúc �
 <p>Ôi ! Khúc Đoạn-Trường của ta tuyệt diệu như vậy, Đoạn trường tân thanh của ta bao la như vậy, thử hỏi ta đã làm gì để xứng với hạnh phúc của ta ?<br />Trả lời câu hỏi ấy, tất là ta phải khóc. Xuân-Diệu trước ta đã có ý "<em><strong>khấp Tố Như</strong></em>" Xuân-Việt thì từ bao giờ vẫn khóc, lệ hai người ấy như dòng ngân và suối lưả, nay gom cùng nước mắt ta.<br />Chắc rằng càng khóc với ta, còn bao nhiêu người Việt, nhưng khóc sao cho không phí giọt hồng, dàn được hai bờ Cửu-Long chan chứa.</p>
 
 
-![Khúc Đoạn Trường - chung](../assets/kdt-fin.png)
+![Khúc Đoạn Trường - chung](../assets/kdt-fin.png)Chung
    

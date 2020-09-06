@@ -15,7 +15,8 @@ author:
   
 permalink: "/ky-nguu-tuong-cong/"
 ---
-![Bài thơ Đỗ Mục do thày Thích Phước Thành viết thảo, treo tại nhà TQA](../assets/DoMuc_KyNguuTuongCongthao.png)
+![Bài thơ Đỗ Mục do thày Thích Phước Thành viết thảo, treo tại nhà TQA](../assets/DoMuc_KyNguuTuongCongthao.png)Ký Ngưu tướng công - Đường Đỗ Mục thi - 841\
+Ba lê thành Nhâm Ngọ niên, Phước-Thành thư vu Khuông Việt phật đường
 
 ### ***Lời giải của ông Trần văn Chánh***
 
