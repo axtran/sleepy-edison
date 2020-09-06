@@ -29,12 +29,12 @@ Như Bạch Lạc Thiên ca ngợi sắc đẹp của Dương-Phi, tình yêu c�
 #### **[長](https://hvdic.thivien.net/whv/%E9%95%B7)[恨](https://hvdic.thivien.net/whv/%E6%81%A8)[歌](https://hvdic.thivien.net/whv/%E6%AD%8C)&nbsp;&nbsp;(Cheng hen ge - Bai Juyi)  &#13;&#10;Trường hận ca**
 
 
-[漢](https://hvdic.thivien.net/whv/%E6%BC%A2)[皇](https://hvdic.thivien.net/whv/%E7%9A%87)[重](https://hvdic.thivien.net/whv/%E9%87%8D)[色](https://hvdic.thivien.net/whv/%E8%89%B2)[思](https://hvdic.thivien.net/whv/%E6%80%9D)[傾](https://hvdic.thivien.net/whv/%E5%82%BE)[國](https://hvdic.thivien.net/whv/%E5%9C%8B)，  
+[漢 ](https://hvdic.thivien.net/whv/%E6%BC%A2)[皇 ](https://hvdic.thivien.net/whv/%E7%9A%87)[重 ](https://hvdic.thivien.net/whv/%E9%87%8D)[色 ](https://hvdic.thivien.net/whv/%E8%89%B2)[思 ](https://hvdic.thivien.net/whv/%E6%80%9D)[傾 ](https://hvdic.thivien.net/whv/%E5%82%BE)[國](https://hvdic.thivien.net/whv/%E5%9C%8B)，  
 Hán hoàng&nbsp;trọng sắc tư khuynh quốc  
 *Vua Hán trọng sắc đẹp, muốn có một người nghiêng nước nghiêng thành*
 
 
-[御](https://hvdic.thivien.net/whv/%E5%BE%A1)[宇](https://hvdic.thivien.net/whv/%E5%AE%87)[多](https://hvdic.thivien.net/whv/%E5%A4%9A)[年](https://hvdic.thivien.net/whv/%E5%B9%B4)[求](https://hvdic.thivien.net/whv/%E6%B1%82)[不](https://hvdic.thivien.net/whv/%E4%B8%8D)[得](https://hvdic.thivien.net/whv/%E5%BE%97)。  
+[御 ](https://hvdic.thivien.net/whv/%E5%BE%A1)[宇](https://hvdic.thivien.net/whv/%E5%AE%87)[多](https://hvdic.thivien.net/whv/%E5%A4%9A)[年](https://hvdic.thivien.net/whv/%E5%B9%B4)[求](https://hvdic.thivien.net/whv/%E6%B1%82)[不](https://hvdic.thivien.net/whv/%E4%B8%8D)[得](https://hvdic.thivien.net/whv/%E5%BE%97)。  
 Ngự vũ đa niên cầu bất đắc  
 *Ở ngôi bao năm tìm kiếm không được*
 
@@ -628,12 +628,7 @@ Thiên trường địa cửu hữu thì tận
 Thử hận miên miên vô tuyệt kỳ  
 *Hận này đằng dặc, không thủa nào cùng!*
 
-{% 
-   include image.html url="/assets/images/2020/05/truong-han-ca.jpg"
-                      description=" Dương quý phi - Đường Minh Hoàng "
-                      width="75%"
-                      height=""
-%}
+![Dương quý phi - Đường Minh Hoàng](../assets/truong-han-ca.jpg)
 
 #### Bản dịch của&nbsp;[Tản Đà](https://www.thivien.net/T%E1%BA%A3n-%C4%90%C3%A0/author-FOvItidPjMKModgAy49buw)
 
@@ -697,8 +692,8 @@ Thấy đâu mặt ngọc! Bây giờ Mã Ngôi!
 Gióng dây cương, ngựa tế về đông  
 Cảnh xua dương liễu, phù dung  
 Vị Ương, Thái Dịch hồ cung vẹn mười  
-Phù dung đó, mặt ai đâu tá?  
-Mày liễu đâu? Cho lá còn như  
+Phù dung đó, mặt ai đâu tá ?  
+Mày liễu đâu ? Cho lá còn như  
 Càng trông hoa liễu năm xưa  
 Càng xui nước mắt như mưa ướt đầm  
 Xuân đào lý gió đêm huê nở  
@@ -717,7 +712,7 @@ Tiếng canh tối tùng tùng điểm trống
 Năm canh dài chẳng giống đêm xưa  
 Sông Ngân lấp lánh sao thưa  
 Trời như muốn sáng, sao chưa sáng trời?  
-Tren mái ngói sương rơi ướt lạnh  
+Trên mái ngói sương rơi ướt lạnh  
 Trong chăn nằm bên cạnh nào ai?  
 Cách năm sống thác đôi nơi  
 Thấy đâu hồn phách vãng lai giấc nồng?  
@@ -754,10 +749,10 @@ Ngừng nước mắt âm thầm buồn bã
 Từ ngày cách trở đôi phương  
 Vắng tanh tăm tiếng, mơ màng hình dong  
 Nơi đế điện dứt vòng ân ái  
-Chốn tiên cugn thư thái hàng ngày  
+Chốn tiên cung thư thái hàng ngày  
 Cõi trần ngoảnh lại mà hay  
-Tràng An chẳng thấy, thấy đầy bụi nhơ!  
-Lấy chi tỏ tình xưa thăm thú?  
+Tràng An chẳng thấy, thấy đầy bụi nhơ !  
+Lấy chi tỏ tình xưa thăm thú ?  
 Gửi cành hoa vật cũ cầm xuôi  
 Thoa vàng hộp khảm phân đôi  
 Nửa xin để lại nửa thời đem đi  
