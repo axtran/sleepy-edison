@@ -48,14 +48,7 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
-          /*{
-            resolve: `gatsby-transformer-remark`,
-            options: {
-              plugins: [
-                `gatsby-remark-mathjax`,
-              ],
-            },
-          },*/
+          
         ],
       },
     },
@@ -67,6 +60,14 @@ module.exports = {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
+    {
+            resolve: `gatsby-transformer-remark`,
+            options: {
+              plugins: [
+                `gatsby-remark-mathjax`,
+              ],
+            },
+      },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
