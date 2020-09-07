@@ -5,31 +5,43 @@ date: 2020-09-07T01:31:00Z
 
 Le modèle Black-Scholes repose sur un certain nombre de conditions :
 
-le prix de l'actif sous-jacent St suit un mouvement brownien géométrique avec une volatilité $$
+le prix de l'actif sous-jacent St suit un mouvement brownien géométrique avec une volatilité 
+$$
 {\displaystyle \sigma }\sigma
 $$ 
 constante et une dérive 
 $$
 {\displaystyle \mu }\mu
-$$
+$$ 
 constante :
 $$
 {\displaystyle Pr[{\frac {\Delta p_{t}-E(\Delta p_{t})}{\sigma (\Delta p_{t})}}<{\frac {VaR_{q}-E(\Delta p_{t})}{\sigma (\Delta p_{t})}}]=1-q}{\displaystyle Pr[{\frac {\Delta p_{t}-E(\Delta p_{t})}{\sigma (\Delta p_{t})}}<{\frac {VaR_{q}-E(\Delta p_{t})}{\sigma (\Delta p_{t})}}]=1-q}
-$$ est un processus de Wiener,
+$$ 
+est un processus de Wiener,
 $$
 {\displaystyle \phi ^{-}1(1-q)}{\displaystyle \phi ^{-}1(1-q)}
-$$ est un processus de Wiener,
+$$ 
+est un processus de Wiener,
 $$
 {\displaystyle VaR_{q}={E(\Delta p_{t})}-\phi ^{-}1(q)\sigma (\Delta p_{t})}{\displaystyle VaR_{q}={E(\Delta p_{t})}-\phi ^{-}1(q)\sigma (\Delta p_{t})}
-$$ est un processus de Wiener,
+$$ 
+est un processus de Wiener,
 $$
-{\displaystyle VaR_{q}=-\phi ^{-}1(q)\sigma (\Delta p_{t})}{\displaystyle VaR_{q}=-\phi ^{-}1(q)\sigma (\Delta p_{t})} est un processus de Wiener,
-{\displaystyle VaR_{q}={E(\Delta p_{\textbf {P}})}-\phi ^{-}1(q)\sigma (\Delta p_{\textbf {P}})}{\displaystyle VaR_{q}={E(\Delta p_{\textbf {P}})}-\phi ^{-}1(q)\sigma (\Delta p_{\textbf {P}})} est un processus de Wiener,
+{\displaystyle VaR_{q}=-\phi ^{-}1(q)\sigma (\Delta p_{t})}{\displaystyle VaR_{q}=-\phi ^{-}1(q)\sigma (\Delta p_{t})}
+$$ 
+est un processus de Wiener,
+$$
+{\displaystyle VaR_{q}={E(\Delta p_{\textbf {P}})}-\phi ^{-}1(q)\sigma (\Delta p_{\textbf {P}})}{\displaystyle VaR_{q}={E(\Delta p_{\textbf {P}})}-\phi ^{-}1(q)\sigma (\Delta p_{\textbf {P}})}
+$$ 
+est un processus de Wiener,
+$$
 {\displaystyle ES_{p}=E[X|X>VaR_{p}]}{\displaystyle ES_{p}=E[X|X>VaR_{p}]}
-$$ est un processus de Wiener,
+$$ 
+est un processus de Wiener,
 $$
 {\displaystyle ES_{p}={\frac {1}{p}}\displaystyle \int _{0}^{p}VaR(_{\theta })(X)\,\mathrm {d} \theta }{\displaystyle ES_{p}={\frac {1}{p}}\displaystyle \int _{0}^{p}VaR(_{\theta })(X)\,\mathrm {d} \theta }
-$$ est un processus de Wiener ;
+$$ 
+est un processus de Wiener ;
 il n'y a pas d'occasions d'arbitrage ;
 le temps est une fonction continue ;
 il est possible d'effectuer des ventes à découvert ;
@@ -49,56 +61,74 @@ $$
 $$ la valeur actuelle de l'action sous-jacente,
 $$
 {\displaystyle {\mathcal {}}T}{\mathcal  {}}T
-$$ le temps qu'il reste à l'option avant son échéance (exprimé en années),
+$$ 
+le temps qu'il reste à l'option avant son échéance (exprimé en années),
 $$
 {\displaystyle {\mathcal {}}K}{\mathcal  {}}K
-$$ le prix d'exercice fixé par l'option,
+$$ 
+le prix d'exercice fixé par l'option,
 $$
 {\displaystyle {\mathcal {}}r}{\mathcal  {}}r
-$$ le taux d'intérêt sans risque,
+$$
+ le taux d'intérêt sans risque,
 $$
 {\displaystyle {\mathcal {}}\sigma }{\mathcal  {}}\sigma
-$$  la volatilité du prix de l'action.
-Si les quatre premières données sont évidentes, la volatilité $$
+$$
+  la volatilité du prix de l'action.
+Si les quatre premières données sont évidentes, la volatilité 
+$$
 {\displaystyle {\mathcal {}}\sigma }{\mathcal  {}}\sigma
-$$  de l'actif est difficile à évaluer. Deux analystes pourront avoir une opinion différente sur la valeur de $$
+$$
+  de l'actif est difficile à évaluer. Deux analystes pourront avoir une opinion différente sur la valeur de 
+$$
 {\displaystyle {\mathcal {}}\sigma }{\mathcal  {}}\sigma
-$$  à choisir.
+$$
+  à choisir.
 
-Le prix théorique d'une option d'achat, qui donne le droit mais pas l'obligation d'acheter l'actif S à la valeur K à la date T, est caractérisé par son payoff : $$
+Le prix théorique d'une option d'achat, qui donne le droit mais pas l'obligation d'acheter l'actif S à la valeur K à la date T, est caractérisé par son payoff : 
+$$
 {\displaystyle ({\mathcal {S}}_{T}-K)^{+}=\max(S_{T}-K;0)}({\mathcal  {S}}_{{T}}-K)^{{+}}=\max(S_{{T}}-K;0)
 $$
-
-Il est donné par l'espérance sous probabilité risque neutre du payoff terminal actualisé
+ Il est donné par l'espérance sous probabilité risque neutre du payoff terminal actualisé
 $$
 {\displaystyle C=\mathbb {E} ({\text{Payoff}}\times e^{-rT})~}{\displaystyle C=\mathbb {E} ({\text{Payoff}}\times e^{-rT})~},
-$$
-soit la formule de Black-Scholes :
+$$ soit la formule de Black-Scholes :
 $$
 {\displaystyle C(S_{0},K,r,T,\sigma )=S_{0}{\mathcal {N}}(d_{1})-Ke^{-rT}{\mathcal {N}}(d_{2})}{\displaystyle C(S_{0},K,r,T,\sigma )=S_{0}{\mathcal {N}}(d_{1})-Ke^{-rT}{\mathcal {N}}(d_{2})}
 $$
-De même, le prix théorique d'une option de vente, de payoff $$
+ De même, le prix théorique d'une option de vente, de payoff 
+$$
 {\displaystyle (K-{\mathcal {S}}_{T})^{+}=\max(K-S_{T};0)}(K-{\mathcal  {S}}_{{T}})^{{+}}=\max(K-S_{{T}};0)
-$$ est donné par :
-
+$$
+ est donné par :
 $$
 {\displaystyle P(S_{0},K,r,T,\sigma )=-S_{0}{\mathcal {N}}(-d_{1})+Ke^{-rT}{\mathcal {N}}(-d_{2})}{\displaystyle P(S_{0},K,r,T,\sigma )=-S_{0}{\mathcal {N}}(-d_{1})+Ke^{-rT}{\mathcal {N}}(-d_{2})}
 $$
-avec
-
+ avec
 $$
 {\displaystyle {\mathcal {N}}}{\mathcal  {N}}
-$$ la fonction de répartition de la loi normale centrée réduite $$
-{\displaystyle {\mathcal {N}}\left(0,1\right)}{\mathcal  {N}}\left(0,1\right
-$$ c'est-à-dire {\displaystyle $$
-{\mathcal {N}}(x)=\int _{-\infty }^{x}{\frac {1}{\sqrt {2\pi }}}e^{-{\frac {1}{2}}u^{2}}du}{\mathcal  {N}}(x)=\int _{{-\infty }}^{{x}}{\frac  {1}{{\sqrt  {2\pi }}}}e^{{-{\frac  {1}{2}}u^{2}}}
-$$ du
+$$
+ la fonction de répartition de la loi normale centrée réduite 
+
+$$
+{\displaystyle {\mathcal {N}}\left(0,1\right)}{\mathcal  {N}}\left(0,1\right)
+$$
+ c'est-à-dire 
+
+$$
+{\displaystyle {\mathcal {N}}(x)=\int _{-\infty }^{x}{\frac {1}{\sqrt {2\pi }}}e^{-{\frac {1}{2}}u^{2}}du}{\mathcal  {N}}(x)=\int _{{-\infty }}^{{x}}{\frac  {1}{{\sqrt  {2\pi }}}}e^{{-{\frac  {1}{2}}u^{2}}}
+$$
+
+ du
 $$
 {\displaystyle d_{1}={\frac {1}{\sigma {\sqrt {T}}}}\left[\ln \left({\frac {S_{0}}{K}}\right)+\left(r+{\frac {1}{2}}\sigma ^{2}\right)T\right]}d_{1}={\frac  {1}{\sigma {\sqrt  {T}}}}\left[\ln \left({\frac  {S_{0}}{K}}\right)+\left(r+{\frac  {1}{2}}\sigma ^{2}\right)T\right]
-{\displaystyle d_{2}=d_{1}-\sigma {\sqrt {T}}}d_{2}=d_{1}-\sigma {\sqrt  {T}}
+$$ 
 $$
-On peut également appliquer la formule à l'inverse. Étant donné le prix de l'option qui est coté dans les marchés, quelle valeur de $$
+{\displaystyle d_{2}=d_{1}-\sigma {\sqrt {T}}}d_{2}=d_{1}-\sigma {\sqrt  {T}}
+$$ On peut également appliquer la formule à l'inverse. Étant donné le prix de l'option qui est coté dans les marchés, quelle valeur de 
+$$
 {\displaystyle {\mathcal {}}\sigma }{\mathcal  {}}\sigma
-$$  doit être choisie pour que la formule Black-Scholes donne exactement ce prix ? On obtient ainsi la volatilité implicite qui a un grand intérêt pratique et théorique.
+$$
+  doit être choisie pour que la formule Black-Scholes donne exactement ce prix ? On obtient ainsi la volatilité implicite qui a un grand intérêt pratique et théorique.
 
 [afficher]
