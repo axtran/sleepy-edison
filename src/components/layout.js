@@ -9,6 +9,7 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
+      
       <h1
         style={{
           ...scale(1.5),
@@ -45,6 +46,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h3>
+      
     )
   }
   return (
