@@ -22,7 +22,7 @@ Lý Thái Bạch say dài chẳng tỉnh, chung cổ không mong, thánh hiền 
 **Bằng Vân** *Khúc Đoạn Trường , Lời bình luận toàn khúc.*
 
 ***
-![Lý Bạch - Xử thế nhươc đại mộng](../assets/ly-bach_xu-the-nhuoc-dai-mong.jpg)
+![Lý Bạch - Xử thế nhươc đại mộng](../assets/ly-bach_xu-the-nhuoc-dai-mong.jpg)Xử thế nhươc đại mộng
  
 
   Tôi muốn được sinh ở thế kỷ thứ 8, không phải để coi viên dạ minh châu của Đường Minh Hoàng, cũng không phải để nghe khúc Nghê thường của Dương Quí Phi mà để biết dung nhan, cốt cách một người mà thi sĩ Hạ Tri Chương mới gặp đã tặng ngay cái hiệu “ông tiên bị đày xuống trần” (天 上 謫 仙 人 Thiên thượng trích tiên nhân), một người chỉ say sưa quanh năm, bạ đâu ngủ đấy, trong quán rượu ở chợ, dưới gốc cây trên núi, màđược vua phải nể, kẻ quyền thế là Cao lực sĩ phải sợ, một người không hề giúp ích gì cho đời, chỉ ngao du sơn thuỷ rồi ngâm nga ca vịnh màđược hậu thế đặt ngang hàng với các vị giáo chủ, phải, ngang với Thích Ca, Lão Tử, Giê Du, Khổng Tử vì, cũng như 4 vị Phật, Thánh kia, người ấy đã được thế nhân đặt ra những truyện hoang đường về lúc giáng phàm của mình. Người ấy là Lý Bạch.   
