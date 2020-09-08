@@ -36,9 +36,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
           </p>
-          <script type="text/javascript" id="MathJax-script" async
-          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-          </script>
+          
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
