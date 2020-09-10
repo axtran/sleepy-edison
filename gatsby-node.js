@@ -62,3 +62,29 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+/*
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+  
+  if (page.path === `/example/`) {
+    // remove old one
+    deletePage(page)
+    // and create new one with modified path
+    createPage({
+      ...page,
+      path: `/example/index.html`
+    })
+  }
+
+  if (page.path === `/Black-Scholes/`) {
+    // remove old one
+    deletePage(page)
+    // and create new one with modified path
+    createPage({
+      ...page,
+      path: `/Black-Scholes/index.html`
+    })
+  }
+ 
+}
+*/
