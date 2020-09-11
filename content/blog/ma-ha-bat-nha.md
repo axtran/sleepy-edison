@@ -7,9 +7,9 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- KĐT-Bằng Vân
-tags: []
+categories: "KĐT-Bằng Vân"
+tags: ['tieng viet','chinese','poetry']
+description: "/ma-ha-bat-nha.md"
 
   
 permalink: "/2020/06/13/ma-ha-bat-nha/"

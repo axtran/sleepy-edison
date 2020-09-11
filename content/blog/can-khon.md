@@ -5,7 +5,7 @@ type: youtube
 yt-video-id: A4ttu71oJ70 
 homedisplay: iframe
 title: Càn khôn TTT Hàng Truong
-tags: [life, quote]
+tags: ["life", "quote","personal dev"]
 category: [video]
 ---
 

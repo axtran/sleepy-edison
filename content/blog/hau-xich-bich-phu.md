@@ -7,15 +7,12 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- Hán văn (漢文)
-- KĐT-Bằng Vân
-tags:
-- han-van
-- Prose
-- Tao
+categories: "Hán văn (漢文)"
+
+tags: ['tieng viet','chinese']
 
 permalink: "/hau-xich-bich-phu/"
+
 ---
 
 Như Tô-Đông-Pha sao lãng lợi danh mà chơi gió chơi giăng, sảng khoái hơn người, nhưng gái lầu xanh buồn trong gió trăng hoa tuyết, gượng lúc thơ hoạ cầm cờ, lòng trong trắng thương thân dày dạn, dạ ngẩn ngơ bên hiếu bên tình, tâm hồn cao quý như vậy lại không hơn cái sảng khoái dễ dàng kia sao ?  

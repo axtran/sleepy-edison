@@ -2,9 +2,9 @@
 author: qatran
 date: "2020-08-18T23:46:37.121Z"
 title: $500 Shell Command
-tags: [programming]
+tags: ["programming"]
 category: [standard]
-layout: post-material-sidebar-left
+description: "/shell-command.md"
 ---
 ![start eagle flight](../assets/envol.jpg)
 A shell command that earned his programmer $500 in less than 5 minutes:  

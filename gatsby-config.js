@@ -3,7 +3,7 @@ module.exports = {
     title: `Accueil`,
     author: {
       name: `Quoc-Anh Tran`,
-      summary: `, à Paris.`,
+      summary: `, Paris.`,
     },
     description: `Personal blog.`,
     siteUrl: `https://sleepy-edison-ccc6a8.netlify.app/`,
@@ -40,6 +40,13 @@ module.exports = {
             },
           },
           {
+            resolve: `gatsby-remark-katex`,
+            options: {
+                // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+               strict: `ignore`
+            }, 
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
@@ -48,7 +55,6 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
-          
         ],
       },
     },
@@ -60,22 +66,6 @@ module.exports = {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
-    {
-            resolve: `gatsby-transformer-remark`,
-            options: {
-              plugins: [
-              //  `gatsby-remark-mathjax`,
-              //  `gatsby-remark-mathjax-ssr`,
-                {
-                  resolve: `gatsby-remark-katex`,
-                  options: {
-                    // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-                    strict: `ignore`
-                  }
-                }
-              ],
-            },
-      },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,

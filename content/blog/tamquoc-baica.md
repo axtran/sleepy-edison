@@ -5,8 +5,9 @@ date: "2010-05-13T23:46:37.121Z"
 yt-video-id: hhq79uFUvV8
 homedisplay: iframe
 title: Tam Quốc bài ca
-tags: [music, language, quote]
+tags: ["music", "chinese", "video"]
 category: [video]
+description: "/tamquo-baica.md"
 ---
 
 <iframe width="905" height="509" src="https://www.youtube.com/embed/hhq79uFUvV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

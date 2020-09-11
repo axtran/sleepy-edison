@@ -7,9 +7,8 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- KĐT-Bằng Vân
-tags: []
+categories: "KĐT-Bằng Vân"
+tags: ["tieng viet","kdt"]
 
   
 permalink: "/kdt-phu-chu/"

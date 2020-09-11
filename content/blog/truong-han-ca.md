@@ -10,10 +10,9 @@ status: publish
 categories:
 - Hán văn (漢文)
 - KĐT-Bằng Vân
-tags:
-- han-van
+tags: ['tieng viet','chinese','poetry']
 
-description:
+description: "/truong-han-ca.md"
   
 permalink: "/truong-han-ca/"
 ---

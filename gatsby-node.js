@@ -1,10 +1,12 @@
 const path = require(`path`)
+const _ = require("lodash") // form tags mgt
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const tagTemplate = path.resolve("./src/templates/tags.js")
   const result = await graphql(
     `
       {
@@ -19,8 +21,14 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                tags
               }
             }
+          }
+        }
+        tagsGroup: allMarkdownRemark(limit: 2000) {
+          group(field: frontmatter___tags) {
+            fieldValue
           }
         }
       }
@@ -48,8 +56,24 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   })
-}
 
+  // Extract tag data from query
+  const tags = result.data.tagsGroup.group
+
+  // Make tag pages
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    })
+  })
+
+} 
+/********************************************************** */
+/*   from former g-nod.js ***********************************/
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
@@ -62,29 +86,3 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
-/*
-exports.onCreatePage = ({ page, actions }) => {
-  const { createPage, deletePage } = actions
-  
-  if (page.path === `/example/`) {
-    // remove old one
-    deletePage(page)
-    // and create new one with modified path
-    createPage({
-      ...page,
-      path: `/example/index.html`
-    })
-  }
-
-  if (page.path === `/Black-Scholes/`) {
-    // remove old one
-    deletePage(page)
-    // and create new one with modified path
-    createPage({
-      ...page,
-      path: `/Black-Scholes/index.html`
-    })
-  }
- 
-}
-*/

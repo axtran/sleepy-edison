@@ -10,9 +10,8 @@ status: publish
 categories:
 - Hán văn (漢文)
 - KĐT-Bằng Vân
-tags:
-- han-van
-
+tags: ['tieng viet','chinese','poetry']
+description: "/tien-xich-bich-phu.md"
   
 permalink: "/tien-xich-bich-phu/"
 ---

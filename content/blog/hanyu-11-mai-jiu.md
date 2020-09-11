@@ -3,7 +3,7 @@ author: qatran
 date: "2020-09-06T20:05:37.121Z"
 type: image
 title: 汉语入门 - 第十一课 - 買 酒
-tags: [chinese]
+tags: ['chinese']
 category: [language]
 ---
 

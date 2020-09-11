@@ -6,14 +6,11 @@ type: post
 parent_id: 0
 published: true
 status: publish
-categories:
-- Hán văn (漢文)
-- KĐT-Bằng Vân
-tags:
-- han-van
-- Đường thi
+categories: "Hán văn (漢文)"
 
-author:
+tags: ['tieng viet','chinese','poetry']
+
+author: Nguyên Hiên Lê
 
 permalink: "/tuong-tien-tuu-ly-bach/"
 ---

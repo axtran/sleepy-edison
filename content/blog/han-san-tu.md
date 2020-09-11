@@ -2,8 +2,9 @@
 title: Hàn San Tự
 date: 2020-09-06T20:56:00Z
 author: Vũ thư Hiên
+tags: ['tieng viet','poetry','chinese']
 ---
-![Han San Tu](../../assets/han-san-tu-cac.jpg)Hàn San Tự Các
+![Han San Tu](../assets/han-san-tu-cac.jpg)Hàn San Tự Các
 
 ####**<a target="_blank" href="https://hvdic.thivien.net/whv/%E6%A5%93" rel="noreferrer noopener">楓</a><a target="_blank" href="https://hvdic.thivien.net/whv/%E6%A9%8B" rel="noreferrer noopener">橋</a><a target="_blank" href="https://hvdic.thivien.net/whv/%E5%A4%9C" rel="noreferrer noopener">夜</a><a target="_blank" href="https://hvdic.thivien.net/whv/%E6%B3%8A" rel="noreferrer noopener">泊</a>&nbsp;&nbsp;Phong Kiều dạ bạc**
 *Nửa đêm đậu bến Phong Kiều*

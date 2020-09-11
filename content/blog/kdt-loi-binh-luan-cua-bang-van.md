@@ -7,10 +7,9 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- KĐT-Bằng Vân
-tags:
-- luân-văn
+categories: "KĐT-Bằng Vân"
+tags: ['tieng viet','poetry', 'kdt']
+
   
 permalink: "/2020/05/01/loi-binh-luan-cua-bang-van/"
 ---

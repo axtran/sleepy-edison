@@ -7,10 +7,9 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- KĐT-Bằng Vân
-tags:
-- luân-văn
+categories: "KĐT-Bằng Vân"
+tags: ['tieng viet','poetry','kdt']
+description:  luân-văn, Lời bình luận toàn khúc (Bằng Vân)
 
   
 permalink: "/2020/05/01/kdt-loi-binh-luan-toan-khuc/"

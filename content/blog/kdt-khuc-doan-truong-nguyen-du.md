@@ -7,10 +7,9 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- KĐT-Bằng Vân
-tags:
-- luân-văn
+categories: "KĐT-Bằng Vân"
+tags: ['tieng viet','poetry','kdt']
+
 
 permalink: "/kdt-khuc-doan-truong-nguyen-du/"
 ---
