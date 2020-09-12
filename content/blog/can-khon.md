@@ -6,7 +6,7 @@ yt-video-id: A4ttu71oJ70
 homedisplay: iframe
 title: Càn khôn TTT Hàng Truong
 tags: ["life", "quote","personal dev"]
-category: [video]
+category: "youtube"
 ---
 
 Youtube A4ttu71oJ70 is the  *Càn Khôn* - 10 animals from TT Thich Hàng-Truong

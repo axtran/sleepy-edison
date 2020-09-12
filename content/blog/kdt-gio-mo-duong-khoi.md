@@ -16,7 +16,7 @@ description:
   _edit_last '10899574'
   _thumbnail_id '1665'
 author:
-permalink: "/2020/05/01/gio-mo-duong-khoi/"
+permalink: "gio-mo-duong-khoi/"
 ---
 
 ![Chim trốc dẫn đàn](../assets/kdt_chim-troc-dan-dan.jpeg)

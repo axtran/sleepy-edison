@@ -6,7 +6,7 @@ yt-video-id: hhq79uFUvV8
 homedisplay: iframe
 title: Tam Quốc bài ca
 tags: ["music", "chinese", "video"]
-category: [video]
+category: "youtube"
 description: "/tamquo-baica.md"
 ---
 

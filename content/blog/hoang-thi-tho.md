@@ -7,7 +7,7 @@ audio-embed:
 homedisplay: iframe
 title: Liên-Khúc Hoàng thi Thơ
 tags: ["music","audio"]
-category: [audio]
+category: "sound-cloud"
 ---
 ![Hoang thi Thơ](../assets/hoangthitho.jpg)
 

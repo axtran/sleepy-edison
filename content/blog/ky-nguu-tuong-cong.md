@@ -8,7 +8,7 @@ published: true
 password: ''
 status: publish
 categories: "KĐT-Bằng Vân"
-tags: ['tieng viet','chinese','poetry', 'kdt']
+tags: ['tieng viet','chinese','poetry']
 
 author:
   
