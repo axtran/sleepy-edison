@@ -22,18 +22,19 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
-                categories
+                category
                 tags
+                date
               }
             }
           }
         }
-        categoriesGroup: allMarkdownRemark(limit: 2000) {
-          group(field: frontmatter___categories) {
+        categoriesGroup: allMarkdownRemark(limit: 100) {
+          group(field: frontmatter___category) {
             fieldValue
           }
         }
-        tagsGroup: allMarkdownRemark(limit: 2000) {
+        tagsGroup: allMarkdownRemark(limit: 1000) {
           group(field: frontmatter___tags) {
             fieldValue
           }
@@ -67,7 +68,7 @@ exports.createPages = async ({ graphql, actions }) => {
   // Extract tag data from query
   const tags = result.data.tagsGroup.group
   const categories = result.data.categoriesGroup.group
-  // Make tcategories and tag pages
+  // Make categories and tag pages
   categories.forEach(category => {
     createPage({
       path: `/categories/${_.kebabCase(category.fieldValue)}/`,
@@ -89,9 +90,10 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
 } 
-/********************************************************** */
-/*   from former g-nod.js ***********************************/
+
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
+
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
@@ -102,4 +104,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     })
   }
-}
+} 

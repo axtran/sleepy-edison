@@ -2,6 +2,7 @@
 title: Kinh Kim Cang
 date: 2020-06-19 19:30:00.000000000 +02:00
 tags: ["personal dev", "poetry"]
+category: Hán văn (漢文)
 ---
 *Bài trong Kinh Kim Cang thày VP tặng anh Bảo June 19 2020*  Kim Lê
 

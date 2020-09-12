@@ -6,7 +6,7 @@ type: post
 parent_id: 0
 published: true
 status: publish
-categories: "Hán văn (漢文)"
+category: Hán văn (漢文)
 
 tags: ['tieng viet','chinese','poetry']
 

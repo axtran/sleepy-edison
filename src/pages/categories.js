@@ -8,7 +8,7 @@ import kebabCase from "lodash/kebabCase"
 import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 
-const CategoriesPage = ({
+const CategoryPage = ({
   data: {
     allMarkdownRemark: { group },
     site: {
@@ -24,7 +24,7 @@ const CategoriesPage = ({
         {group.map(category => (
           <li key={category.fieldValue}>
             <Link to={`/categories/${kebabCase(category.fieldValue)}/`}>
-            &nbsp;&nbsp;&nbsp; {category.fieldValue} ({category.totalCount})
+            &nbsp; {category.fieldValue} ({category.totalCount})
             </Link>
           </li>
         ))}
@@ -33,7 +33,7 @@ const CategoriesPage = ({
   </div>
 )
 
-CategoriesPage.propTypes = {
+CategoryPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       group: PropTypes.arrayOf(
@@ -51,7 +51,7 @@ CategoriesPage.propTypes = {
   }),
 }
 
-export default CategoriesPage
+export default CategoryPage
 
 export const pageQuery = graphql`
   query {
@@ -60,8 +60,8 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(limit: 2000) {
-      group(field: frontmatter___categories) {
+    allMarkdownRemark(limit: 100) {
+      group(field: frontmatter___category) {
         fieldValue
         totalCount
       }

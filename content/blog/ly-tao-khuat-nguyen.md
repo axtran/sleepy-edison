@@ -7,7 +7,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories: "Hán văn (漢文)"
+category: Hán văn (漢文)
 tags: ['tieng viet','chinese','poetry']
 description: "/ly-tao-khuat-nguyen.md"  
 permalink: "/ly-tao-khuat-nguyen/"

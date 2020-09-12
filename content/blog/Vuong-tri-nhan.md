@@ -2,6 +2,7 @@
 title: Thói hư tật xấu người Việt
 date: 2020-09-06T23:00:00Z
 tags: ['tieng viet']
+category: book
 ---
 
 ###TRÊN ĐƯỜNG TÌM HIỂU THÓI HƯ TẬT XẤU NGƯỜI VIỆT ###

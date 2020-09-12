@@ -7,7 +7,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories: "KĐT-Bằng Vân"
+category: KĐT-Bằng Vân-book
 tags: ['tieng viet','poetry','kdt']
 
 permalink: "/kdt-khuc-doan-truong-cover/"

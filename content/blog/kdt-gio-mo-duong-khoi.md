@@ -7,8 +7,8 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories: "KĐT-Bằng Vân"
-tags: ['tieng viet','poetry','kdt']
+category: KĐT-Bằng Vân-book
+tags: ['tieng viet','poetry']
 
 description:
   _publicize_job_id '43717478242'

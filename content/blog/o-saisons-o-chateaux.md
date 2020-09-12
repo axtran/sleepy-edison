@@ -5,10 +5,10 @@ type: image
 featimg: Chateaux.jpg
 title: Ô saisons, ô châteaux
 tags: ["poetry","image"]
-category: [image]
+category: art
 ---
 
-![Game of Throne](./Chateaux.jpg)
+![Game of Throne](../assets/Chateaux.jpg)
 
 >Ô saisons, ô châteaux\
 Quelle âme est sans défaut ?

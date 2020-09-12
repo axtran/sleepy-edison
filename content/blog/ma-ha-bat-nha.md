@@ -7,7 +7,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories: 
+category: "Hán văn (漢文)"
 tags: ['tieng viet','chinese','poetry']
 description: "/ma-ha-bat-nha.md"
 

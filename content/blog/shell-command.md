@@ -3,7 +3,7 @@ author: qatran
 date: "2020-08-18T23:46:37.121Z"
 title: $500 Shell Command
 tags: ["programming"]
-category: 
+category: "science"
 description: "/shell-command.md"
 ---
 ![start eagle flight](../assets/envol.jpg)

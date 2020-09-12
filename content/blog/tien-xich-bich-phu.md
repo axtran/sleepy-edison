@@ -7,7 +7,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories: "KĐT-Bằng Vân"
+category: Hán văn (漢文)
 
 tags: ['tieng viet','chinese','poetry']
 description: "/tien-xich-bich-phu.md"

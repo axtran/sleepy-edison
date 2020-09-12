@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 // Components
 import { Link, graphql } from "gatsby"
 
-const Categories = ({ pageContext, data }) => {
+const Category = ({ pageContext, data }) => {
   const { category } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
   const categoryHeader = `${totalCount} post${
@@ -34,7 +34,7 @@ const Categories = ({ pageContext, data }) => {
   )
 }
 
-Categories.propTypes = {
+Category.propTypes = {
   pageContext: PropTypes.shape({
     category: PropTypes.string.isRequired,
   }),
@@ -57,14 +57,14 @@ Categories.propTypes = {
   }),
 }
 
-export default Categories
+export default Category
 
 export const pageQuery = graphql`
   query($category: String) {
     allMarkdownRemark(
-      limit: 2000
+      limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { categories: { in: [$category] } } }
+      filter: { frontmatter: { category: { in: [$category] } } }
     ) {
       totalCount
       edges {

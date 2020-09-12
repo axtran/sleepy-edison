@@ -3,7 +3,7 @@ author: qatran
 date: "2020-06-05T22:40:32.169Z"
 title: La Jeune Tarentine
 tags: ["poetry","image","adult" ]
-category: 
+category: art
 ---
 
 ![La Jeune Tarentine de A Schoenewerk](../assets/La-jeune-Tarentine.jpg)
