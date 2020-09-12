@@ -36,6 +36,11 @@ const BlogIndex = ({ data, location }) => {
                   __html: node.frontmatter.description ||  node.excerpt,
                 }}
               />
+              <small>Category:{' '}{node.frontmatter.category}{'    '}
+              <Link to="/categories">All categories</Link></small><br/>
+              <small>Tags:{' '}{node.frontmatter.tags}{'    '}
+              <Link to="/tags">All tags</Link></small>
+
             </section>
           </article>
         )
@@ -64,6 +69,8 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            category
+            tags
           }
         }
       }

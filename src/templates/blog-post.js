@@ -34,16 +34,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date}
-          </p>
+            {post.frontmatter.date}<br/>
           
+          Category:{' '}{post.frontmatter.category}{'    '}
+              <Link to="/categories">All categories</Link><br/>
+              Tags:{' '}<small>{post.frontmatter.tags}</small>{'    '}
+              <Link to="/tags">All tags</Link>
+           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        
         <footer>
           <Bio />
         </footer>
@@ -62,19 +62,20 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                ← (prev) {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+                {next.frontmatter.title} (next)→
               </Link>
             )}
           </li>
         </ul>
       </nav>
+            
     </Layout>
   )
 }
@@ -96,6 +97,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        category
+        tags
       }
     }
   }

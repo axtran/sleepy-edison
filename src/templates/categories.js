@@ -13,7 +13,8 @@ const Category = ({ pageContext, data }) => {
 
   return (
     <div>
-      <h1>{categoryHeader}</h1>
+      
+      <h4>{categoryHeader}</h4>
       <ul>
         {edges.map(({ node }) => {
           const { slug } = node.fields

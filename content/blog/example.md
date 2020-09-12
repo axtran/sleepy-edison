@@ -1,7 +1,7 @@
 ---
 title: mathjax example
 date: 2020-09-07T20:38:00Z
-tags: ["math","programming"]
+tags: ["math ", "programming"]
 category: science
 ---
 

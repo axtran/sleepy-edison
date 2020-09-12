@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Accueil`,
+    title: `Index site`,
     author: {
       name: `Quoc-Anh Tran`,
       summary: `, Paris.`,

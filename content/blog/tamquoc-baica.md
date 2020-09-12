@@ -5,7 +5,7 @@ date: "2010-05-13T23:46:37.121Z"
 yt-video-id: hhq79uFUvV8
 homedisplay: iframe
 title: Tam Quốc bài ca
-tags: ["music", "chinese", "video"]
+tags: ["music ", "chinese ", "video "]
 category: video
 description: "/tamquo-baica.md"
 ---

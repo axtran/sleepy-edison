@@ -8,6 +8,7 @@ import kebabCase from "lodash/kebabCase"
 import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 
+
 const CategoryPage = ({
   data: {
     allMarkdownRemark: { group },
@@ -19,16 +20,22 @@ const CategoryPage = ({
   <div>
     <Helmet title={title} />
     <div>
-      <h1>Categories</h1>
-      <ul>
+      <h4>
+        <Link to={`/`}> {title} </Link>
+      </h4>
+      <h1>All Categories</h1>
+      <ol>
         {group.map(category => (
           <li key={category.fieldValue}>
+            {'  '}
             <Link to={`/categories/${kebabCase(category.fieldValue)}/`}>
-            &nbsp; {category.fieldValue} ({category.totalCount})
+             {category.fieldValue} ({category.totalCount})
             </Link>
+            {', '}
           </li>
         ))}
-      </ul>
+      </ol>
+      
     </div>
   </div>
 )

@@ -2,7 +2,7 @@
 title: Hàn San Tự
 date: 2020-09-06T20:56:00Z
 author: Vũ thư Hiên
-tags: ['tieng viet','poetry','chinese']
+tags: ['tieng viet ','poetry ','chinese ']
 category: Hán văn (漢文)
 ---
 ![Han San Tu](../assets/han-san-tu-cac.jpg)Hàn San Tự Các

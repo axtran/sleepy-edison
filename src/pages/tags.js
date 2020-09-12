@@ -7,6 +7,8 @@ import kebabCase from "lodash/kebabCase"
 // Components
 import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
+//import { SymbolFormatFlags } from "typescript"
+
 
 const TagsPage = ({
   data: {
@@ -16,19 +18,26 @@ const TagsPage = ({
     },
   },
 }) => (
+  
   <div>
     <Helmet title={title} />
     <div>
-      <h1>Tags</h1>
-      <ul>
+      <h4>
+        <Link to={`/`}> {title} </Link>
+      </h4>
+      <h1>All Tags</h1>
+      
         {group.map(tag => (
-          <li key={tag.fieldValue}>
+          <span key={tag.fieldValue}>
             <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-            &nbsp;&nbsp;&nbsp; {tag.fieldValue} ({tag.totalCount})
+            {` `} {tag.fieldValue} ({tag.totalCount})
             </Link>
-          </li>
+            {', '}
+          </span>
+        
         ))}
-      </ul>
+        
+      
     </div>
   </div>
 )
