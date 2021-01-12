@@ -23,12 +23,16 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
     ```
 
+    # Or use git clone :
+    git clone git://github.com/axtran/sleepy-edison.git
+
+
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-blog-starter/
+    cd sleepy-edison/
     gatsby develop
     ```
 
@@ -38,7 +42,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `sleepy-edison` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
@@ -95,5 +99,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
+
+## the site is visible at :
+https://sleepy-edison-ccc6a8.netlify.app/   
 
 <!-- AUTO-GENERATED-CONTENT:END -->
