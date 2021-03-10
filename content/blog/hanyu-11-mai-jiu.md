@@ -8,7 +8,7 @@ category: Hán văn (漢文)
 ---
 
 
-![Hoàng Hac lâu](../../assets/hoang-hac-lau3.jpg)Hoàng hạc Lâu
+![Hoàng Hac lâu](../assets/hoang-hac-lau3.jpg)Hoàng hạc Lâu
 
 
 ####漢語入門 - 第十一課-買 酒####

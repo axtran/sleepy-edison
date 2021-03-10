@@ -6,7 +6,7 @@ tags: ["poetry","image","adult" ]
 category: art
 ---
 
-![La Jeune Tarentine de A Schoenewerk](../assets/La-jeune-Tarentine.jpg)
+![La Jeune Tarentine de A Schoenewerk](../assets/la-jeune-tarentine.jpg)
 
 *La Jeune Tarentine* est une statue en marbre de 1871 du sculpteur francais *Alexandre Schoenewerk* d'après un poème d'*André Chénier*, exposée au Musée d'Orsay de Paris
 - - -

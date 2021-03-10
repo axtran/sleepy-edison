@@ -3,6 +3,7 @@ title: Latex avec l'Equation de Black-Scholes
 date: 2020-09-07T01:31:00Z
 tags: ["math"]
 category: science
+published: false
 ---
 
 Le modèle Black-Scholes repose sur un certain nombre de conditions :
