@@ -8,7 +8,7 @@ tags: ["poetry","image"]
 category: art
 ---
 
-![Game of Throne](../assets/Chateaux.jpg)
+![Game of Throne](../assets/chateaux.jpg)
 
 >Ô saisons, ô châteaux\
 Quelle âme est sans défaut ?

@@ -4,6 +4,16 @@ date: 2020-09-06T23:00:00Z
 tags: ['tieng viet']
 category: book
 ---
+*Mậu Thìn xuất cảm* 
+  
+*Cuộc thế xoay quanh đất một hòn*  
+*Sông chưa cạn đó, núi chưa mòn*  
+*Dân hai lăm triệu ai người lớn*  
+*Nước bốn ngàn năm vẫn trẻ con*  
+*Cám cảnh khói mây mờ mịt biển*  
+*Lo đời sương tuyết bạc đầu non*  
+
+*Tản Đà (1916)*
 
 ###TRÊN ĐƯỜNG TÌM HIỂU THÓI HƯ TẬT XẤU NGƯỜI VIỆT ###
 
@@ -41,15 +51,6 @@ Những điều ta nói ta làm hàng ngày mà theo luật quy tội, thì sán
 Trên cũng như dưới đều mơ mơ màng màng, cơ hồ thành một nước không có pháp luật. Dân không giữ chữ tín, trong dân gian người ta làm khế ước với nhau, thường mực chưa khô đã bội ước. 
 Quy tắc của trường học, kế hoạch của công sở phần lớn nằm trên giấy, treo lên cho vui mắt, đọc lên cho vui tai mà thôi. 
 Trên dưới không tin nhau, mà mong giữ đúng pháp luật thì thật là khó thay! Đã không giữ được thì thay đổi đi là hơn.
-
-___
-
-###Làm ra vẻ yêu nước để mưu lợi riêng (Phan Bội Châu - Cao đẳng quốc dân, 1928)###
- Chứng bệnh hay giả dối là chứng bệnh chung của người nước ta mà ở trong lại có một chứng đặc biệt là chứng ái quốc giả...\
-  Nào đám truy điệu, nào tiệc hoan nghênh, nào là kỷ niệm anh hùng, nào là sùng bái chí sĩ, chuông dồn trống giục, Nam hát Bắc hò, xem ở trong một đám lúc nhúc lao nhao, cũng đã có mấy phần người biết quyền nước đã mất thì tính mạng không còn, hồn nước có về thì giang sơn mới sống.\
-  Nếu những tấm lòng ái quốc đó mà thật thà chắc chắn thì giống Tiên Rồng chẳng hạnh phúc lắm sao? Nhưng tội tình thay, khốn khổ thay, người ưu thời mẫn thế chẳng bao nhiêu mà người rao danh thì đầy đường đầy ngõ.\
-  Giọt nước mắt khóc nước vẫn ngày đêm chan chứa mà xem cho kỹ thì rặt nước mắt gừng; tiếng chuông trống kêu hồn vẫn trong ngoài gióng giả mà nghe cho tới nơi thì rặt là chuông trò trống hội; ngoài miệng thì ái quốc mà trong bụng vẫn là kim khánh mề đay; trước mặt người thì ái quốc mà đến lúc đếm khuya thanh vắng thì tính toán những chuyện chó săn chim mồi.\
-  Chao ôi! Trời ơi! ái quốc gì, ái quốc thế ư? Đeo mặt nạ ái quốc để phỉnh chúng lừa đời, một mặt thời mua chuốc lấy tiếng chí sĩ chân nhân, một mặt thì ôm chặt lấy lốt ông tham bà đốc.
 
 ___
 
