@@ -20,7 +20,7 @@ $ \sum_{n \in \Z} \phi(n)= \sum \hat \phi(n) $\
 
 Cauchy 1825:\
 $ f(z) = \frac{1}{2i\pi} \int \frac {f(w)}{w-z} dw $\
-( p.367 - pour tout $ z \in D(z_0,r^-) $,  f(z) fonction de classe $ \mathscr C ^1 $ (au sens complexe))
+( p.367 - pour tout $ z \in D(z_0,r^-) $,  f(z) fonction de classe $ \mathscr C ^1 $ (continue sommable, au sens complexe))
 
 Riemann 1858:\
 $ \zeta (s) =  2.(2\pi)^{s-1}.\Gamma(1-s).\sin\frac {\pi s}{2}.\zeta(1-s)  $\
