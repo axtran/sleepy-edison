@@ -1,10 +1,10 @@
 ---
-title: mathjax examples
+title: Formules sur page couverture du Colmez
 date: "2021-03-12"
-tags: ["math ", "programming"]
+tags: ["math ", "Colmez"]
 category: science
 ---
-
+![p.1 de couv](../assets/pierrecolmez.jpeg)  
 
 Lagrange 1771:\
 $  |G| = |H|.|G/H|  $\
@@ -26,10 +26,13 @@ Riemann 1858:\
 $ \zeta (s) =  2.(2\pi)^{s-1}.\Gamma(1-s).\sin\frac {\pi s}{2}.\zeta(1-s)  $\
  ( p.411 - équation fonctionnelle conjecturée par Euler en 1749 basée sur ses calculs en les entiers)
 
+ $ \zeta(-1) = \sum_{n=1}^{+\infty} n^{-1}=1+2+3+4+...=-\frac{1}{12}= \prod_p \frac{1}{1-\frac{1}{p}} $
+
 Burnside 1895:\
-$ \sum_{W\in Irr(G)} (dim W2)^2 = |G| $\
+$ \sum_{W\in Irr(G)} (dim W)^2 = |G| $\
  ( p.249 - $ W_i $ représentations irréductibles, G groupe abélien fini)
 
 Hadamard, de la Vallée Poussin 1896:\
 $ \pi (x) \approx \frac {x}{\log x}    $\
  (p.429 - Th. des nombres premiers)
+ ***
