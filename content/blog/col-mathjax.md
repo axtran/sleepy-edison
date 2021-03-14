@@ -32,7 +32,7 @@ Burnside 1895:\
 $ \sum_{W\in Irr(G)} (dim W)^2 = |G| $\
  ( p.249 - $ W_i $ représentations irréductibles, G groupe abélien fini)
 
-Hadamard, de la Vallée Poussin 1896:\
+Hadamard,C. de la Vallée Poussin 1896:\
 $ \pi (x) \approx \frac {x}{\log x}    $\
  (p.429 - Th. des nombres premiers)
  ***
