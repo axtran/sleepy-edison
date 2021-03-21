@@ -34,20 +34,20 @@ category: science
 *   $Fr(A)$ corps des fractions ; classe d'équivalence de couples (a,b)$\in$ Ax(A-\{0})$; $ Fr(Z)=Q; Fr(K[X])=K(X)$  
 
 ## Modules
- Soit M un module sur A ou un A-module : Anneau (2 lois internes) + action (loi externe) $(a,x) \mapsto ax \in A$
+ Soit $M$ un module sur $A$ ou un A-module : Anneau (2 lois internes) + action (loi externe) $(a,x) \mapsto ax \in M$  sur $A$
 
 *   $Z$ module $Z/6Z$ des nombres modulo 6  
 
 ## Espaces vectoriels
  Module sur corps K commutatif  
 
- *   espaces des fonctions $\mathfrak C(R^m), \mathfrak C^{\infty}(R^m), \mathfrak S(R^m), \mathcal L^1(R^m)$, de Schwartz, continues, sommables   
+ *   espaces des fonctions $\mathscr C(R^m), \mathscr C^{\infty}(R^m), \mathscr S(R^m), \mathbb L^1(R^m)$, de Schwartz, continues, sommables   
 
  ## Algèbres
  A-algèbre sur $\Lambda : \forall a,b \in A$ et $\forall x,y\in \Lambda $ on a: $a(x.y) = (ax).y = x(ay)$
 
  *   une A-algèbre = Z-algèbre si A commutatif :
-     $n(x.y) = (nx).y = x.(ny)
+     $n(x.y) = (nx).y = x.(ny)$
 
   
 

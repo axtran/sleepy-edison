@@ -7,6 +7,6 @@ category: science
 
 [Latex symbols](http://pages.cs.wisc.edu/~dakoop/latex_symbols.html )   
 
-[Overleaf Latex site](https://www.overleaf.com/learn/latex/Main_Page)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Mathblog Cheatsheets](https://mathblog.com/13-useful-math-cheat-sheets/)
