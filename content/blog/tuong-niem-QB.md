@@ -1,5 +1,5 @@
 ---
-title: Kinh Kim Cang
+title: Đọc khi sắp mất
 date: 2020-06-19 19:30:00.000000000 +02:00
 tags: ["personal dev", "poetry"]
 category: Hán văn (漢文)
